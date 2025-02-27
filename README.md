@@ -13,4 +13,7 @@ While API-based offerings provide better control, OpenAI’s introduction of dat
 ## Gemini 2.0 Revamped Pricing Scheme
 Google’s new generative AI offering, Gemini 2.0, comes with a revised pricing model at Vertex AI. For details, see the [Google Vertex AI Pricing](https://cloud.google.com/vertex-ai/generative-ai/pricing) page.
 
+## Anthropic Claude 3.7 Sonnet
+Anthropic have released Claude 3.7 Sonnet - a hybrid model with optional Reasoning. [Announcement](https://www.anthropic.com/news/claude-3-7-sonnet).
+
 *Additional updates will be appended here as this fast-evolving field continues to develop.*
