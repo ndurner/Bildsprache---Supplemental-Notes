@@ -16,4 +16,7 @@ Google’s new generative AI offering, Gemini 2.0, comes with a revised pricing 
 ## Anthropic Claude 3.7 Sonnet
 Anthropic have released Claude 3.7 Sonnet - a hybrid model with optional Reasoning. [Announcement](https://www.anthropic.com/news/claude-3-7-sonnet).
 
+## OpenAI GPT-4.5 Preview
+OpenAI have released GPT-4.5 in preview. This could make GPT-4 Turbo obsolete. [Announcement](https://openai.com/index/introducing-gpt-4-5/)
+
 *Additional updates will be appended here as this fast-evolving field continues to develop.*
