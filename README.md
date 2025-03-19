@@ -19,4 +19,10 @@ Anthropic have released Claude 3.7 Sonnet - a hybrid model with optional Reasoni
 ## OpenAI GPT-4.5 Preview
 OpenAI have released GPT-4.5 in preview. This could make GPT-4 Turbo obsolete. [Announcement](https://openai.com/index/introducing-gpt-4-5/)
 
+## OpenAI Playground renamed to Prompts Playground
+platform.openai.com is "Prompts Playground" now. [Announcement](https://x.com/OpenAIDevs/status/1900358343333482861)
+
+## OpenAI have added PDF support to Prompts Playground an API
+Prompts Playground and OpenAI now support PDFs. This seems to work better than some of the "Text only" LLM frontends featured in my article, but there are limits as well: 100 pages, 32 MB. [Guide](https://platform.openai.com/docs/guides/pdf-files?api-mode=chat)
+
 *Additional updates will be appended here as this fast-evolving field continues to develop.*
