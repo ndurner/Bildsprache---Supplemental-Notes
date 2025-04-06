@@ -25,4 +25,7 @@ platform.openai.com is "Prompts Playground" now. [Announcement](https://x.com/Op
 ## OpenAI have added PDF support to Prompts Playground an API
 Prompts Playground and OpenAI now support PDFs. This seems to work better than some of the "Text only" LLM frontends featured in my article, but there are limits as well: 100 pages, 32 MB. [Guide](https://platform.openai.com/docs/guides/pdf-files?api-mode=chat)
 
+## OpenAI GPT-4o ImageGen released
+OpenAI have released a successor to the Dall-E image generation model which looks promising for infographics. Not available outside ChatGPT as of yet, though. [Extended blog post](https://ndurner.github.io/gpt4o-infographics).
+
 *Additional updates will be appended here as this fast-evolving field continues to develop.*
